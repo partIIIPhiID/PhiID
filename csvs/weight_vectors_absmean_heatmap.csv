@@ -1,0 +1,129 @@
+time period,drowsiness,weight vector,atom
+pre1,alert,-4.26,rtr
+pre1,light drowsy,-3.3,rtr
+pre2,alert,-7.3,rtr
+pre2,light drowsy,-6.3,rtr
+post1,alert,-6.03,rtr
+post1,light drowsy,2.2,rtr
+post2,alert,-3.49,rtr
+post2,light drowsy,1.22,rtr
+pre1,alert,-78,rtx
+pre1,light drowsy,110,rtx
+pre2,alert,95.7,rtx
+pre2,light drowsy,123,rtx
+post1,alert,11,rtx
+post1,light drowsy,-54.7,rtx
+post2,alert,-24.8,rtx
+post2,light drowsy,-24.5,rtx
+pre1,alert,161,rty
+pre1,light drowsy,240,rty
+pre2,alert,-230,rty
+pre2,light drowsy,195,rty
+post1,alert,266,rty
+post1,light drowsy,334,rty
+post2,alert,-227,rty
+post2,light drowsy,-130,rty
+pre1,alert,-352,rts
+pre1,light drowsy,-66,rts
+pre2,alert,108,rts
+pre2,light drowsy,803,rts
+post1,alert,-114,rts
+post1,light drowsy,-259,rts
+post2,alert,-246,rts
+post2,light drowsy,-93.9,rts
+pre1,alert,-98.9,xtr
+pre1,light drowsy,-408,xtr
+pre2,alert,-44,xtr
+pre2,light drowsy,519,xtr
+post1,alert,-392,xtr
+post1,light drowsy,-163,xtr
+post2,alert,229,xtr
+post2,light drowsy,240,xtr
+pre1,alert,-19.2,xtx
+pre1,light drowsy,-0.766,xtx
+pre2,alert,-18.7,xtx
+pre2,light drowsy,1.18,xtx
+post1,alert,-36.2,xtx
+post1,light drowsy,-10.8,xtx
+post2,alert,-3.55,xtx
+post2,light drowsy,13.5,xtx
+pre1,alert,26.8,xty
+pre1,light drowsy,77,xty
+pre2,alert,59.3,xty
+pre2,light drowsy,0.241,xty
+post1,alert,33.9,xty
+post1,light drowsy,65.2,xty
+post2,alert,20.7,xty
+post2,light drowsy,68,xty
+pre1,alert,-111,xts
+pre1,light drowsy,309,xts
+pre2,alert,-42.4,xts
+pre2,light drowsy,675,xts
+post1,alert,-230,xts
+post1,light drowsy,7.74,xts
+post2,alert,300,xts
+post2,light drowsy,-58.7,xts
+pre1,alert,-4.26,ytr
+pre1,light drowsy,-3.3,ytr
+pre2,alert,-7.3,ytr
+pre2,light drowsy,-6.3,ytr
+post1,alert,-6.03,ytr
+post1,light drowsy,2.2,ytr
+post2,alert,-3.49,ytr
+post2,light drowsy,1.21,ytr
+pre1,alert,-78,ytx
+pre1,light drowsy,110,ytx
+pre2,alert,95.7,ytx
+pre2,light drowsy,123,ytx
+post1,alert,11,ytx
+post1,light drowsy,-54.7,ytx
+post2,alert,-24.8,ytx
+post2,light drowsy,-24.5,ytx
+pre1,alert,20.1,yty
+pre1,light drowsy,1.91,yty
+pre2,alert,18.9,yty
+pre2,light drowsy,-1.31,yty
+post1,alert,36.5,yty
+post1,light drowsy,9.35,yty
+post2,alert,3.9,yty
+post2,light drowsy,-13.4,yty
+pre1,alert,-406,yts
+pre1,light drowsy,-576,yts
+pre2,alert,243,yts
+pre2,light drowsy,-554,yts
+post1,alert,-826,yts
+post1,light drowsy,-716,yts
+post2,alert,-93.2,yts
+post2,light drowsy,-399,yts
+pre1,alert,329,str
+pre1,light drowsy,27.6,str
+pre2,alert,-129,str
+pre2,light drowsy,-797,str
+post1,alert,116,str
+post1,light drowsy,300,str
+post2,alert,261,str
+post2,light drowsy,83.3,str
+pre1,alert,322,stx
+pre1,light drowsy,523,stx
+pre2,alert,41.9,stx
+pre2,light drowsy,273,stx
+post1,alert,808,stx
+post1,light drowsy,647,stx
+post2,alert,-131,stx
+post2,light drowsy,403,stx
+pre1,alert,101,sty
+pre1,light drowsy,-229,sty
+pre2,alert,-334,sty
+pre2,light drowsy,-408,sty
+post1,alert,154,sty
+post1,light drowsy,81.2,sty
+post2,alert,-99.3,sty
+post2,light drowsy,57.9,sty
+pre1,alert,-17.7,sts
+pre1,light drowsy,-8.88,sts
+pre2,alert,-13.8,sts
+pre2,light drowsy,-1.93,sts
+post1,alert,-14.6,sts
+post1,light drowsy,2.41,sts
+post2,alert,-12.5,sts
+post2,light drowsy,6.75,sts
